@@ -11,3 +11,5 @@ console.log('print 10');
 console.log('print 11');
 console.log('print 12');
 console.log('print 13');
+console.log('print a');
+console.log('print file1 b');
